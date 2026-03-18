@@ -59,7 +59,7 @@ We will experiment with:
 - Matplotlib / Seaborn
 
 ## 📂 Project Structure
-
+```
 drug-toxicity-prediction/
 │
 ├── data/                # Raw & processed datasets
@@ -74,7 +74,8 @@ drug-toxicity-prediction/
 │
 ├── requirements.txt
 └── README.md
-                                                                                                                                                                                                                 ## 📅 Development Plan
+```
+## 📅 Development Plan
 
 ### 🟢 Phase 1 (Day 1)
 - Dataset collection
