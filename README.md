@@ -1,5 +1,3 @@
-README.md 
-
 # 💊 Drug Toxicity Prediction using AI/ML
 
 ## 🚀 Overview
